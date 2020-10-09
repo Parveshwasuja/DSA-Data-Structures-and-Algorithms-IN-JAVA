@@ -20,6 +20,7 @@ public class print_encodings {
             return;
         }
         
+        
         char ch = str.charAt(0);
         int t = ch - 48;
         String ros = str.substring(1);

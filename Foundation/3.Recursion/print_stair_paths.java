@@ -23,6 +23,7 @@ public class print_stair_paths {
         printStairPaths(n-2,path+"2");
         printStairPaths(n-3,path+"3");
         
+        
     }
 
 }

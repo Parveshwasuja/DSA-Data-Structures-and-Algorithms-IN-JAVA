@@ -15,6 +15,7 @@ public class print_kpc {
             System.out.println(ans);
             return;
         }
+        
         char ch = str.charAt(0);
         int idx = ch - 48;
         String ros = str.substring(1);

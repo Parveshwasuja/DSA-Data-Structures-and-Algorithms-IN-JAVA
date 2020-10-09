@@ -25,6 +25,7 @@ public class print_maze_paths_jumps {
             return;
         }
         
+        
         for(int i=1;i<=dc-sc;i++){
             printMazePaths(sr,sc+i,dr,dc,path+"h"+String.valueOf(i));
         }

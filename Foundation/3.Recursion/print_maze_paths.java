@@ -24,7 +24,8 @@ import java.io.*;
 	        if(sr>dr || sc>dc){
 	            return;
 	        }
-	        
+	      
+	      
 	        printMazePaths(sr,sc+1,dr,dc,psf+"h");
 	        printMazePaths(sr+1,sc,dr,dc,psf+"v");
 	        
