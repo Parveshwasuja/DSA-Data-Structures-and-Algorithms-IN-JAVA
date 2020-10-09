@@ -24,4 +24,5 @@ public class power_logarithmic {
         }
     }
 
+
 }
